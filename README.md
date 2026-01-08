@@ -1,5 +1,6 @@
 # Half-adder
 This repository contains a simple Python implementation of a Half Adder and a Full Adder, along with their respective truth tables. These are fundamental building blocks in digital electronics and computer architecture.
+
 📌 Overview
 
 Half Adder
