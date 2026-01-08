@@ -1,26 +1,33 @@
 # Half-adder
-This repository contains a simple Python implementation of a Half Adder and a Full Adder, along with their respective truth tables. These are fundamental building blocks in digital electronics and computer architecture.
+🔹 Algorithm
+Half Adder Algorithm
 
-📌 Overview
+Start
 
+Take two binary inputs a and b
+
+Calculate Sum using XOR operation
+sum = a XOR b
+
+Calculate Carry using AND operation
+carry = a AND b
+
+Display the Sum and Carry
+
+Stop
+
+Explanation
 Half Adder
 
-Adds two single-bit binary numbers
+A Half Adder is a digital circuit that adds two single-bit binary numbers.
 
-Produces:
+The Sum is calculated using the XOR (^) operation.
 
-Sum
+The Carry is generated only when both inputs are 1, which is calculated using the AND (&) operation.
 
-Carry
+Example:
+If a = 1 and b = 1
 
-Full Adder
+Sum = 0
 
-Adds three single-bit binary numbers (including carry-in)
-
-Produces:
-
-Sum
-
-Carry-out
-
-This project demonstrates how logical operations used in hardware can be simulated using Python.
+Carry = 1
