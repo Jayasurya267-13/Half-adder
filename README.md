@@ -6,7 +6,7 @@ This is mainly created for learning and understanding how binary addition works 
 
 ---
 
-## What This Program Does
+## What This Program Does:
 
 * Implements a **Half Adder** using Python
 * Implements a **Full Adder** using Python
@@ -15,7 +15,7 @@ This is mainly created for learning and understanding how binary addition works 
 
 ---
 
-## Concepts Covered
+## Concepts Covered:
 
 * Binary addition
 * Digital logic fundamentals
