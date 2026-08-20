@@ -84,7 +84,3 @@ a=0, b=0, carry_in=1 -> Sum=1, Carry_out=0
 half_adder.py
 README.md
 ```
-
----
-
-If you like this project, feel free to star the repository ⭐
